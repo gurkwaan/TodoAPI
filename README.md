@@ -1,7 +1,7 @@
 # TodoAPI
-My first api, a TODO-list
+My first api, a minimal TODO-list api
 
-Denna Minimala api kan man använder sig av en in-memory databas. Vilket betyder att all data försvinner vid omstart.
+Denna Minimala api använder sig av en in-memory databas. Vilket betyder att all data försvinner vid omstart.
 För att kunna requesta GET, måste man först ha skickat en POST.
 
 Apin kan använda sig av: GET, POST, PUT och DELETE.
